@@ -1,0 +1,12 @@
+* text=lf
+
+.gitignore     text
+.gitattributes text
+
+*.md           text
+*.js           text
+*.styl         text
+*.vue          text
+*.svg          text
+*.png         -text
+*.jpg         -text
